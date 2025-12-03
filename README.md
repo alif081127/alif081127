@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=2B9DF7&center=true&vCenter=true&width=650&lines=Hi,+I'm+Alif+Nurhidayat!;IT+Support+%7C+Network+Engineer+Learner+%7C+DevOps+Beginner;Always+learning+new+things+every+day!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=2B9DF7&center=true&vCenter=true&width=650&lines=Hi,+I'm+Alif+Nurhidayat!;  IT+Support+%7C+Network+Engineer+Learner+%7C+DevOps+Beginner;Always+learning+new+things+every+day!" />
 </p>
 
 ---
