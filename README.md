@@ -66,10 +66,3 @@ Konfigurasi firewall untuk perlindungan dari ARP spoofing, brute-force, flood, D
 Kumpulan catatan dan best-practice yang saya pelajari dari pengalaman langsung.
 
 ---
-
-## 📊 GitHub Stats  
-*(Opsional, biar profil kamu lebih hidup)*
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alif081127&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alif081127&layout=compact&theme=tokyonight)
