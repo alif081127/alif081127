@@ -1,20 +1,19 @@
 <!-- Banner / Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=2B9DF7&center=true&vCenter=true&width=650&lines=Hi,+I'm+Alif+Nurhidayat!;IT+Support+Specialist;Hardware+%26+Software+Troubleshooting;Network+Engineer+Learner;Always+learning+new+things!" />
-
 </p>
 
 ---
 
 ## 🎯 About Me
-🌐 Saya adalah seorang **IT Support** yang sedang mendalami:  
+🌐 I am an **IT Support Specialist** currently focusing on:  
 - **Networking (MikroTik, VLAN, Firewall)**  
 - **Linux System Administration**  
 - **Monitoring Stack (Prometheus, SNMP Exporter, Grafana)**  
 - **CCTV Configuration (DVR/NVR, IP Camera, Port Forwarding)**  
 - **DevOps Basics (Docker, Automation, GitHub)**  
 
-Saya suka mempelajari hal teknis, memecahkan masalah, dan membangun dokumentasi rapi.
+I enjoy learning technical topics, troubleshooting issues, and building clean documentation.
 
 ---
 
@@ -28,13 +27,13 @@ Saya suka mempelajari hal teknis, memecahkan masalah, dan membangun dokumentasi 
 ### 🌐 Networking
 - 📡 MikroTik RouterOS (DHCP, DNS, VLAN, Firewall, PPPoE)  
 - 🔌 LAN cabling & crimping  
-- 🌍 Routing dasar (OSPF / BGP beginner)  
+- 🌍 Basic routing (OSPF / BGP beginner)  
 
 ### 📷 CCTV Skills (Basic)
-- 🎥 Setting **DVR / NVR**  
-- 🌐 Setting **IP Camera + Subnet**  
-- 🔧 Port forwarding CCTV (akses jarak jauh)  
-- 🛠️ Troubleshooting kamera offline / IP conflict  
+- 🎥 DVR / NVR configuration  
+- 🌐 IP Camera setup & subnetting  
+- 🔧 CCTV port forwarding (remote access)  
+- 🛠️ Troubleshooting offline cameras / IP conflicts  
 
 ### 📊 Monitoring Tools
 - 📈 Prometheus  
@@ -48,23 +47,23 @@ Saya suka mempelajari hal teknis, memecahkan masalah, dan membangun dokumentasi 
 - 🔧 Git & GitHub  
 
 ### 🧰 IT Support
-- 🛠️ Troubleshooting hardware/software  
-- 💽 Install OS & aplikasi  
-- 🧾 Helpdesk & dokumentasi  
+- 🛠️ Hardware & software troubleshooting  
+- 💽 OS & application installation  
+- 🧾 Helpdesk & documentation  
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 **MikroTik Monitoring using Prometheus + Grafana**
-Monitoring traffic, CPU, memory, SNMP metrics.  
-**Tech:** Prometheus, SNMP Exporter, Grafana, Mikrotik  
+Traffic, CPU, memory, and SNMP metrics monitoring.  
+**Tech:** Prometheus, SNMP Exporter, Grafana, MikroTik  
 
 ### 🔹 **Linux Server Monitoring Setup**  
-Deployment server untuk observability & metrics gathering.  
+Deploying observability and metrics collection for Linux servers.
 
-### 🔹 **Firewall Hardening MikroTik**
-ARP spoofing, brute-force, SYN flood, DNS spoofing, dan lain-lain.
+### 🔹 **MikroTik Firewall Hardening**
+Protection against ARP spoofing, brute-force attacks, SYN flood, DNS spoofing, and more.
 
 ---
 
@@ -91,14 +90,14 @@ ARP spoofing, brute-force, SYN flood, DNS spoofing, dan lain-lain.
 
 ---
 
-## ⭐ Goals 2025
-- Membuat lebih banyak project open-source  
-- Mendalami DevOps & automation  
-- Build sistem monitoring lengkap berbasiskan Linux  
-- Ikut sertifikasi jaringan / Linux  
+## ⭐ Goals for 2025
+- Build more open-source projects  
+- Deepen skills in DevOps & automation  
+- Build a complete Linux-based monitoring system  
+- Pursue networking / Linux certifications  
 
 ---
 
 <p align="center">
-  <b>✨ Terima kasih sudah mampir! Jangan lupa ⭐ repo jika bermanfaat ✨</b>
+  <b>✨ Thank you for visiting! Don't forget to ⭐ the repo if you find it helpful ✨</b>
 </p>
