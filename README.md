@@ -84,7 +84,7 @@ ARP spoofing, brute-force, SYN flood, DNS spoofing, dan lain-lain.
 ---
 
 ## 📫 Contact Me
-📩 **Email:** alifnurhidayat0807@gmail.com  
+📩 **Email:** https://alifnurhidayat0807@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/alif-nurhidayat-a81861331  
 🌐 Portfolio (coming soon)
 
