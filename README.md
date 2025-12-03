@@ -18,9 +18,10 @@ Saya suka mempelajari hal baru, troubleshooting, dan membangun dokumentasi tekni
 ---
 
 ## 🛠️ Tech Stack & Tools
+
 **System & OS**
 - Linux (Ubuntu, Debian, Rocky Linux)
-- Windows Server Basics  
+- Windows Server basics  
 - Shell / CLI
 
 **Networking**
@@ -34,17 +35,24 @@ Saya suka mempelajari hal baru, troubleshooting, dan membangun dokumentasi tekni
 - Grafana  
 - Mikrotik Exporter  
 
+**CCTV (Basic Concepts)**
+- Konfigurasi dasar DVR/NVR  
+- Setting IP camera & subnet  
+- Port forwarding CCTV  
+- Remote view (akses CCTV via internet)  
+- Troubleshooting kamera offline / IP conflict  
+
 **DevOps / Automation (learning)**
 - Docker  
 - Git & GitHub  
-- YAML / JSON  
-- Setup environment on Linux
+- YAML / JSON
 
 **IT Support**
 - Hardware troubleshooting  
 - Install OS & software  
 - LAN cabling & crimping  
 - Helpdesk & documentation  
+  
 
 ---
 
