@@ -9,6 +9,7 @@
 🌐 I am an **IT Support Specialist** currently focusing on:  
 - **Networking (MikroTik, VLAN, Firewall)**  
 - **Linux System Administration**  
+- **Virtualization (Proxmox VE, KVM, LXC Containers)**  
 - **Monitoring Stack (Prometheus, SNMP Exporter, Grafana)**  
 - **CCTV Configuration (DVR/NVR, IP Camera, Port Forwarding)**  
 - **DevOps Basics (Docker, Automation, GitHub)**  
@@ -23,6 +24,13 @@ I enjoy learning technical topics, troubleshooting issues, and building clean do
 - 🐧 Linux (Ubuntu, Debian, Rocky Linux)  
 - 🪟 Windows / Windows Server  
 - ⌨️ CLI / Shell Scripting  
+
+### 🔄 Virtualization
+- ⚡ **Proxmox VE** (VM & LXC deployment, cluster management)  
+- 📦 LXC Container management  
+- 🖥️ KVM Virtual Machines  
+- 🔗 Network bridging & virtual networking  
+- 💾 Storage management (ZFS, LVM-Thin)  
 
 ### 🌐 Networking
 - 📡 MikroTik RouterOS (DHCP, DNS, VLAN, Firewall, PPPoE)  
@@ -59,6 +67,10 @@ I enjoy learning technical topics, troubleshooting issues, and building clean do
 Traffic, CPU, memory, and SNMP metrics monitoring.  
 **Tech:** Prometheus, SNMP Exporter, Grafana, MikroTik  
 
+### 🔹 **Proxmox VE Home Lab Environment**
+Building and managing virtual infrastructure for testing and development.  
+**Tech:** Proxmox VE, LXC Containers, KVM, VLAN segmentation  
+
 ### 🔹 **Linux Server Monitoring Setup**  
 Deploying observability and metrics collection for Linux servers.
 
@@ -78,7 +90,7 @@ Protection against ARP spoofing, brute-force attacks, SYN flood, DNS spoofing, a
 
 ## 🧩 Fun Little Animation
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F777BB&center=true&vCenter=true&width=600&lines=Network+is+my+playground.;Linux+is+my+comfort+zone.;Troubleshooting+is+my+superpower." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F777BB&center=true&vCenter=true&width=600&lines=Network+is+my+playground.;Linux+is+my+comfort+zone.;Proxmox+is+my+virtual+playground.;Troubleshooting+is+my+superpower." />
 </p>
 
 ---
@@ -94,6 +106,7 @@ Protection against ARP spoofing, brute-force attacks, SYN flood, DNS spoofing, a
 - Build more open-source projects  
 - Deepen skills in DevOps & automation  
 - Build a complete Linux-based monitoring system  
+- Master Proxmox clustering and high availability  
 - Pursue networking / Linux certifications  
 
 ---
