@@ -79,15 +79,6 @@ Protection against ARP spoofing, brute-force attacks, SYN flood, DNS spoofing, a
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alif081127&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alif081127&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 🧩 Fun Little Animation
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F777BB&center=true&vCenter=true&width=600&lines=Network+is+my+playground.;Linux+is+my+comfort+zone.;Proxmox+is+my+virtual+playground.;Troubleshooting+is+my+superpower." />
