@@ -67,7 +67,7 @@ I enjoy learning technical topics, troubleshooting issues, and building clean do
 Traffic, CPU, memory, and SNMP metrics monitoring.  
 **Tech:** Prometheus, SNMP Exporter, Grafana, MikroTik  
 
-### 🔹 **Proxmox VE Home Lab Environment**
+### 🔹 **Proxmox VE Environment**
 Building and managing virtual infrastructure for testing and development.  
 **Tech:** Proxmox VE, LXC Containers, KVM, VLAN segmentation  
 
